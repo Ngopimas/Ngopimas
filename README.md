@@ -24,9 +24,9 @@ Welcome to my GitHub profile!
 - JS
 
 ### 🚀 learning:
-- Material-UI
 - ReactJS & Styled-Components
 - NodeJS & Express
+- Material-UI
 - Python
 
 ### 👨 a little bit about myself:
