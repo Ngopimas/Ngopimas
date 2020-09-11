@@ -20,10 +20,11 @@ Welcome to my GitHub profile!
 
 ### 💻 using:
 - Ruby & Rails
-- HTML & CSS
 - JS
+- HTML, CSS, Bootstrap
 
 ### 🚀 learning:
+- Material-UI
 - ReactJS & Styled-Components
 - NodeJS & Express
 - Python
