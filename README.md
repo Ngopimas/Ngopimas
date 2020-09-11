@@ -21,6 +21,7 @@ Welcome to my GitHub profile!
 ### 💻 using:
 - HTML, CSS, Bootstrap
 - Ruby & Rails
+- Heroku
 - JS
 
 ### 🚀 learning:
