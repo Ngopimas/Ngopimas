@@ -31,10 +31,10 @@ Welcome to my GitHub profile!
 - Python
 
 ### 👨 a little bit about myself:
-- French dev 👨‍💻.
-- Currently in Paris 🥖.
-- Art amateur 🎨.
-- Coffee drinker ☕.
-- Romain is my first name 🇫🇷.
+- French dev 👨‍💻
+- Currently in Paris 🥖
+- Art amateur 🎨
+- Coffee drinker ☕
+- Romain is my first name 🇫🇷
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
