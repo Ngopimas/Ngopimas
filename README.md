@@ -1,11 +1,7 @@
-![TmAP8n236xqh75Q.png](https://i.loli.net/2020/07/13/OiwrC2KRZNPA9cJ.png)
-<!-- You can edit this image in paint and host the image on https://sm.ms/ -->
-### Hi there
+### Hi there 👋
 
 <!--
-**username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
+**Ngopimas/Ngopimas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,15 +12,27 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
- 
----
+-->
 
-<p align="center">
-  <i>A good code is like a story, not a puzzle.</i><br/>
-<img src="https://visitor-badge.glitch.me/badge?page_id=ayushkumar-25.ayushkumar-25"/>
-</p>
+Welcome to my GitHub profile!
 
-![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
+<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
----
-⭐️ From [@ayushkumar-25](https://github.com/ayushkumar-25)
+### 💻 using:
+- Ruby & Rails
+- HTML & CSS
+- JS
+
+### 🚀 learning:
+- ReactJS & Styled-Components
+- NodeJS & Express
+- Python
+
+### 👨 a little bit about myself:
+- French 🥖.
+- Currently in Paris 🇫🇷.
+- Art amateur 🎨.
+- Coffee drinker ☕.
+- Romain is my first name 🍭.
+
+<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
