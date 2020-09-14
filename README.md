@@ -25,7 +25,7 @@ Welcome to my GitHub profile!
 - SQL (PostgreSQL)
 - Heroku
 
-### 🚀 improving my skills in:
+### 🚀 currently learning:
 - ReactJS & Styled-Components
 - NodeJS & Express
 - Material-UI
