@@ -26,7 +26,7 @@ Welcome to my GitHub profile!
 - Heroku
 
 ### 🚀 currently learning:
-- ReactJS & Styled-Components
+- React
 - NodeJS & Express
 - Material-UI
 - Python
