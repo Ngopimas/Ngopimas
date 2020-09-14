@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile!
 
-### 💻 using:
+### 💻 working with:
 - HTML, CSS, Bootstrap
 - Ruby & Rails
 - JS
 - SQL (PostgreSQL)
 - Heroku
 
-### 🚀 learning:
+### 🚀 focus on:
 - ReactJS & Styled-Components
 - NodeJS & Express
 - Material-UI
