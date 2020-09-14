@@ -20,8 +20,8 @@ Welcome to my GitHub profile!
 
 ### 💻 using:
 - HTML, CSS, Bootstrap
-- Ruby & Rails
 - JS
+- Ruby & Rails
 - SQL (PostgreSQL)
 - Heroku
 
