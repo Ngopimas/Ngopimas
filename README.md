@@ -32,9 +32,9 @@ Welcome to my GitHub profile!
 - Python
 
 ### 👨 a little bit about myself:
-- French dev 🇫🇷
+- French dev 🥖
 - "He/Him" 👨‍💻
-- Currently in Paris 🥖
+- Currently in Paris 🇫🇷
 - Art amateur 🎨
 - Coffee drinker ☕
 
