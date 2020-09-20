@@ -35,7 +35,7 @@ Welcome to my GitHub profile!
 - NodeJS & Express
 - Python
 
-### 👨 a little bit about myself:
+### 🐸 a little bit about myself:
 - French dev 🥖
 - "He/Him" 👨‍💻
 - Currently in Paris 🇫🇷
