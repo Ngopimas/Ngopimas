@@ -30,8 +30,9 @@ Welcome to my GitHub profile!
 
 ### 🚀 currently learning:
 - React
-- NodeJS & Express
 - Material-UI
+- D3.js
+- NodeJS & Express
 - Python
 
 ### 👨 a little bit about myself:
