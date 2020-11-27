@@ -24,20 +24,20 @@ Welcome to my GitHub profile!
 ### 🌶 using:
 - HTML, CSS, Bootstrap
 - JS
+- React
 - Ruby & Rails
 - SQL (PostgreSQL)
 - Heroku
 
 ### 🚀 currently learning:
-- React
-- Material-UI
 - D3.js
+- Plotly
 - NodeJS & Express
 - Python
 
 ### 🐸 a little bit about myself:
 - French dev 🥖
 - "He/Him" 👨‍💻
-- Currently in Paris 🇫🇷
+- Living in Paris 🇫🇷
 - Art amateur 🎨
 - Coffee drinker ☕
