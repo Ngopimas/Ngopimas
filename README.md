@@ -22,22 +22,22 @@ Here are some ideas to get you started:
 Welcome to my GitHub profile!
 
 ### 🌶 using:
-- HTML, CSS, Bootstrap
-- JS
+- HTML, CSS, JS
 - React
 - Ruby & Rails
 - SQL (PostgreSQL)
-- Heroku
 
-### 🚀 currently learning:
+### 🌱 currently learning:
+- NodeJS & Express
 - D3.js
 - Plotly
-- NodeJS & Express
+- Three.js
 - Python
 
 ### 🐸 a little bit about myself:
 - French dev 🥖
 - "He/Him" 👨‍💻
 - Living in Paris 🇫🇷
+- Working for Deeplime.io 🚀
 - Art amateur 🎨
 - Coffee drinker ☕
