@@ -36,7 +36,6 @@ Welcome to my GitHub profile!
 
 ### 🐸 a little bit about myself:
 - French dev 🥖
-- DeepLime.io 🚀
 - Living in Paris 🇫🇷
 - "He/Him" 👨‍💻
 - Art amateur 🎨
