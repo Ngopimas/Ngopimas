@@ -38,6 +38,6 @@ Welcome to my GitHub profile!
 - French dev 🥖
 - "He/Him" 👨‍💻
 - Living in Paris 🇫🇷
-- Working for Deeplime.io 🚀
+- DeepLime.io 🚀
 - Art amateur 🎨
 - Coffee drinker ☕
