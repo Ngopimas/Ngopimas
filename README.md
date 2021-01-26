@@ -29,8 +29,8 @@ Welcome to my GitHub profile!
 
 ### 🌱 currently learning:
 - NodeJS & Express
-- Three.js
-- D3.js
+- Three.js, WebGL, OpenGL
+- D3.js, Plotly
 - Python
 
 ### 🐸 a little bit about myself:
