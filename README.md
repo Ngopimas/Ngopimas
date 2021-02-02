@@ -34,13 +34,13 @@ Welcome to my GitHub profile!
 - D3.js, Plotly
 - Python
 
-### 🐸 a little bit about myself:
+### 👨‍💻 a little bit about myself:
 
   🥖 French dev
 
   🇫🇷 Living in Paris
 
-  👨‍💻 "He/Him"
+  🐸 "He/Him"
 
   🎨 Art amateur
 
