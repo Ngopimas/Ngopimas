@@ -24,6 +24,7 @@ Welcome to my GitHub profile!
 ### 🌶 using:
 - HTML, CSS, JS
 - React
+- Jest, Enzyme
 - Ruby & Rails
 - SQL (PostgreSQL)
 
