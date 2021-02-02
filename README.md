@@ -35,12 +35,13 @@ Welcome to my GitHub profile!
 - Python
 
 ### 🐸 a little bit about myself:
-🥖 - French dev
 
-🇫🇷 - Living in Paris
+ 🥖 - French dev
 
-👨‍💻 - "He/Him"
+ 🇫🇷 - Living in Paris
 
-🎨 - Art amateur
+ 👨‍💻 - "He/Him"
 
-☕ - Coffee drinker
+ 🎨 - Art amateur
+
+ ☕ - Coffee drinker
