@@ -36,12 +36,12 @@ Welcome to my GitHub profile!
 
 ### 🐸 a little bit about myself:
 
-  🥖 ☻ French dev
+  🥖 French dev
 
-  🇫🇷 ☻ Living in Paris
+  🇫🇷 Living in Paris
 
-  👨‍💻 ☻ "He/Him"
+  👨‍💻 "He/Him"
 
-  🎨 ☻ Art amateur
+  🎨 Art amateur
 
-  ☕ ☻ Coffee drinker
+  ☕ Coffee drinker
