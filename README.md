@@ -36,7 +36,11 @@ Welcome to my GitHub profile!
 
 ### 🐸 a little bit about myself:
 🥖 - French dev
+
 🇫🇷 - Living in Paris
+
 👨‍💻 - "He/Him"
+
 🎨 - Art amateur
+
 ☕ - Coffee drinker
