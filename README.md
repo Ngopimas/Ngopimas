@@ -32,7 +32,6 @@ Welcome to my GitHub profile!
 - NextJS
 - NodeJS & Express
 - D3.js
-- Python
 
 ### 👨‍💻 a little bit about myself:
 
