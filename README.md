@@ -24,14 +24,14 @@ Welcome to my GitHub profile!
 ### 🌶 using:
 - HTML, CSS, JS
 - React
-- Jest, Enzyme
 - Ruby & Rails
 - SQL (PostgreSQL)
 
 ### 🌱 currently learning:
-- NodeJS & Express
 - Three.js, WebGL, OpenGL
-- D3.js, Plotly
+- NextJS
+- NodeJS & Express
+- D3.js
 - Python
 
 ### 👨‍💻 a little bit about myself:
