@@ -24,8 +24,10 @@ Welcome to my GitHub profile!
 ### 🌶 using:
 - HTML, CSS, JS
 - React
+- TypeScript
+- Jest, Cypress
 - Ruby & Rails
-- SQL (PostgreSQL)
+- PostgreSQL
 
 ### 🌱 currently learning:
 - Three.js, WebGL, OpenGL
