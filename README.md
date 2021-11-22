@@ -30,7 +30,7 @@ Welcome to my GitHub profile.
 - PostgreSQL
 
 ### 🌱 currently learning:
-- Three.js, WebGL, OpenGL
+- Three.js
 - NextJS
 - NodeJS & Express
 - D3.js
