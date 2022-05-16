@@ -46,3 +46,6 @@ Welcome to my GitHub profile.
   🎨 Art amateur
 
   ☕ Coffee drinker
+
+![https://github.com/Platane/snk](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
