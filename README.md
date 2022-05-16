@@ -27,11 +27,11 @@ Welcome to my GitHub profile.
 - TypeScript
 - Jest, Cypress
 - Ruby & Rails
+- Prisma
 - PostgreSQL
 
 ### 🌱 currently learning:
 - Three.js
-- NextJS
 - NodeJS & Express
 - D3.js
 
