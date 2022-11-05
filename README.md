@@ -25,13 +25,14 @@ Welcome to my GitHub profile.
 - HTML, CSS, JS
 - React
 - TypeScript
-- Jest, Cypress
-- Ruby & Rails
+- Three.js, r3f
+- React Query, Recoil, Zustand... instead of Redux
+- Ruby & Rails (used to...)
 - Prisma
 - PostgreSQL
 
-### 🌱 currently learning:
-- Three.js
+### 🌱 currently looking to improve with:
+- Jest, Cypress
 - NodeJS & Express
 - D3.js
 
