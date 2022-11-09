@@ -1,4 +1,4 @@
-
+[![Ngopimas github trophy](https://github-profile-trophy.vercel.app/?username=Ngopimas&title=MultiLanguage)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Hi there 👋
 
@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 -->
 
 Welcome to my GitHub profile.
-
-[![Ngopimas github trophy](https://github-profile-trophy.vercel.app/?username=Ngopimas&title=MultiLanguage)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🌶 mainly using:
 - React & TypeScript
