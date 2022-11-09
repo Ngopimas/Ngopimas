@@ -1,4 +1,4 @@
-[![Ngopimas github trophy](https://github-profile-trophy.vercel.app/?username=Ngopimas&title=MultiLanguage)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ngopimas github trophy](https://github-profile-trophy.vercel.app/?username=Ngopimas&title=MultiLanguage,Commits,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Hi there 👋
 
