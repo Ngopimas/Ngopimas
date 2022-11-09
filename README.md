@@ -21,13 +21,12 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile.
 
-### 🌶 using:
-- HTML, CSS, JS
-- React
-- TypeScript
-- Three.js, r3f
-- React Query, Recoil, Zustand... instead of Redux
-- Ruby & Rails (used to...)
+[![Ngopimas github trophy](https://github-profile-trophy.vercel.app/?username=Ngopimas&title=MultiLanguage)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🌶 mainly using:
+- React & TypeScript
+- Three.js with r3f
+- React Query, Recoil, Zustand (& still Redux sometimes...)
 - Prisma
 - PostgreSQL
 
@@ -42,7 +41,7 @@ Welcome to my GitHub profile.
 
   🇫🇷 Living in Paris
 
-  🐸 "He/Him"
+  🐸 He/Him/Ae/Aes...
 
   🎨 Art amateur
 
