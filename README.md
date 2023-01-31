@@ -27,11 +27,13 @@ Welcome to my GitHub profile.
 - React Query, Recoil, Zustand (& still Redux sometimes...)
 - Prisma
 - PostgreSQL
+- GCP
 
 ### 🌱 currently looking to improve with:
+- dbt, Airflow
+- Kubernetes
 - Jest, Cypress
 - NodeJS & Express
-- D3.js
 
 ### 👨‍💻 a little bit about myself:
 
