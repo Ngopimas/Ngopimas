@@ -25,15 +25,14 @@ Welcome to my GitHub profile.
 - React & TypeScript
 - Three.js with r3f
 - React Query, Recoil, Zustand (& still Redux sometimes...)
-- Prisma
+- Prisma/Drizzle
 - PostgreSQL
-- GCP
 
 ### 🌱 currently looking to improve with:
-- dbt, Airflow
-- Kubernetes
-- Jest, Cypress
-- NodeJS & Express
+- Testing: Jest, Cypress/Playwright
+- Cloud: AWS/GCP
+- Orchestration: Kubernetes
+- Data Workflows: dbt, Airflow
 
 ### 👨‍💻 a little bit about myself:
 
