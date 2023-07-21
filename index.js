@@ -56,9 +56,9 @@ function getEmoji() {
   // test if we are in a PAIR DAY
   return today.getDate() % 2 === 0
     ? Math.floor(Math.random() * 2)
-      ? "✨"
-      : "🎉"
-    : "🚀";
+      ? " ✨"
+      : "."
+    : " 🎉";
 }
 
 function getDBNWSentence() {
