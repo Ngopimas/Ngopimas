@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Romain! Welcome to my GitHub profile <#emoji>
+I'm Romain! Welcome to my GitHub profile.
 
 [![Ngopimas github trophy](https://github-profile-trophy.vercel.app/?username=Ngopimas&title=MultiLanguage,Commits,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -45,14 +45,8 @@ Here are some ideas to get you started:
 - Art amateur 🎨
 - Coffee drinker ☕
 
-☀️ counter before next year ⏱ <#day_before_new_years>
-
 ### 🧮 visitor count
 
 <img src="https://profile-counter.glitch.me/Ngopimas/count.svg" />
 
 ![https://github.com/Platane/snk](./images/github-contribution-grid-snake.svg)
-
-<#bot_signing>
-
-Last update on <#today_date>
