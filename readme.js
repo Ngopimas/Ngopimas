@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 - Art amateur 🎨
 - Coffee drinker ☕
 
-### counter before next year:
-- <#day_before_new_years> ⏱
+### ⏱ counter before next year:
+- <#day_before_new_years> ☀️
 
 ### 🧮 visitor count:
 
