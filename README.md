@@ -45,9 +45,11 @@ Here are some ideas to get you started:
 - Art amateur 🎨
 - Coffee drinker ☕
 
-☀️ counter before next year ⏱ **164 day before 2024 ⏱**
+### ☀️ counter before next year:
 
-### 🧮 visitor count
+- 164 day before 2024 ⏱
+
+### 🧮 visitor count:
 
 <img src="https://profile-counter.glitch.me/Ngopimas/count.svg" />
 

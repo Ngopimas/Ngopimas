@@ -68,7 +68,7 @@ function getDBNWSentence() {
   const timeUntilNewYear = nextYearDate - today;
   const dayUntilNewYear = Math.round(timeUntilNewYear / msInOneDay);
 
-  return `**${dayUntilNewYear} day before ${nextYear} ⏱**`;
+  return `${dayUntilNewYear} day before ${nextYear}`;
 }
 
 const findIdentifierIndex = (rows, identifier) =>
