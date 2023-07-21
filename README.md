@@ -1,4 +1,3 @@
-
 ### Hi there 👋
 
 I'm Romain! Welcome to my GitHub profile 🎉
@@ -54,6 +53,4 @@ Here are some ideas to get you started:
 
 ![https://github.com/Platane/snk](./images/github-contribution-grid-snake.svg)
 
-🤖 This README.md is updated with humanity, by a bot ❤️
-
-Last update on Fri Jul 21 2023
+🤖 This README.md is updated with humanity, by a bot ❤️ Last update on Fri Jul 21 2023

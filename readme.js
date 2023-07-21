@@ -54,7 +54,5 @@ Here are some ideas to get you started:
 
 ![https://github.com/Platane/snk](./images/github-contribution-grid-snake.svg)
 
-<#bot_signing>
-
-Last update on <#today_date>
+<#bot_signing> Last update on <#today_date>
 `;
