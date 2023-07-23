@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I'm Romain! Welcome to my GitHub profile ✨
+I'm Romain! Welcome to my GitHub profile 🎉
 
 [![Ngopimas github trophy](https://github-profile-trophy.vercel.app/?username=Ngopimas&title=MultiLanguage,Commits,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -55,4 +55,4 @@ Here are some ideas to get you started:
 
 ![https://github.com/Platane/snk](./images/github-contribution-grid-snake.svg)
 
-🤖 This README.md is updated with friendliness, by a bot ❤️ Last update on Sat Jul 22 2023
+🤖 This README.md is updated with undefined, by a bot ❤️ Last update on Sun Jul 23 2023
