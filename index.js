@@ -34,13 +34,13 @@ function generateNewREADME() {
 }
 
 const moodByDay = {
+  0: "friendliness",
   1: "humor",
   2: "passion",
   3: "pleasure",
   4: "happiness",
   5: "humanity",
-  6: "friendliness",
-  7: "love",
+  6: "love",
 };
 
 function getBotSigning() {
