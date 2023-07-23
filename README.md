@@ -55,4 +55,4 @@ Here are some ideas to get you started:
 
 ![https://github.com/Platane/snk](./images/github-contribution-grid-snake.svg)
 
-🤖 This README.md is updated with undefined, by a bot ❤️ Last update on Sun Jul 23 2023
+🤖 This README.md is updated with friendliness, by a bot ❤️ Last update on Sun Jul 23 2023
