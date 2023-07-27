@@ -27,7 +27,7 @@ jobs:
         uses: EndBug/add-and-commit@v4
         with:
           author_name: Romain C.
-          author_email: 11706902-ngopimas@users.noreply.gitlab.com
+          author_email: 49529524+Ngopimas@users.noreply.github.com
           force: false
           signoff: false
           message: ":memo: README.md updated by a bot"
