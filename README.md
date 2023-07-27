@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - Coffee drinker ☕
 
 ### ⏱ counter before next year:
-- 158 day before 2024 ☀️
+- 157 day before 2024 ☀️
 
 ### 🧮 visitor count:
 
