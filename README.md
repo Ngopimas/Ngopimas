@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I'm Romain! Welcome to my GitHub profile.
+I'm Romain! Welcome to my GitHub profile ✨
 
 [![Ngopimas github trophy](https://github-profile-trophy.vercel.app/?username=Ngopimas&title=MultiLanguage,Commits,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - Prisma
 - PostgreSQL
 
-### 🌱 currently looking to improve with:
+### 📚 currently looking to improve with:
 
 - Testing: Jest, Cypress/Playwright
 - Cloud: AWS/GCP
@@ -55,4 +55,4 @@ Here are some ideas to get you started:
 
 ![https://github.com/Platane/snk](./images/github-contribution-grid-snake.svg)
 
-🤖 This README.md is updated with humor, by a bot ❤️ Last update on Mon Jan 08 2024
+🤖 This README file is generated automatically! Last update on Mon Jan 08 2024
