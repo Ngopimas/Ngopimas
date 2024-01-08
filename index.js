@@ -23,7 +23,6 @@ function generateNewREADME() {
     day_before_new_years: getDBNWSentence(),
     emoji: getEmoji(),
     today_date: getTodayDate(),
-    bot_signing: getBotSigning(),
   };
 
   Object.entries(identifierToUpdate).forEach(([key, value]) => {
@@ -31,21 +30,6 @@ function generateNewREADME() {
   });
 
   return readmeRow.join("\n");
-}
-
-const moodByDay = {
-  0: "friendliness",
-  1: "humor",
-  2: "passion",
-  3: "pleasure",
-  4: "happiness",
-  5: "humanity",
-  6: "love",
-};
-
-function getBotSigning() {
-  const mood = moodByDay[today.getDay()];
-  return `🤖 This README.md is updated with ${mood}, by a bot ❤️`;
 }
 
 function getTodayDate() {

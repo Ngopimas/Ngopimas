@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - Prisma
 - PostgreSQL
 
-### 🌱 currently looking to improve with:
+### 📚 currently looking to improve with:
 
 - Testing: Jest, Cypress/Playwright
 - Cloud: AWS/GCP
@@ -55,5 +55,5 @@ Here are some ideas to get you started:
 
 ![https://github.com/Platane/snk](./images/github-contribution-grid-snake.svg)
 
-<#bot_signing> Last update on <#today_date>
+🤖 This README file is generated automatically! Last update on <#today_date>
 `;
