@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - React Query, Recoil, Zustand (& still Redux sometimes...)
 - Three.js with r3f
 - Tailwind CSS
-- Prisma
+- Prisma, Drizzle ORM
 - PostgreSQL
 
 ### 📚 currently looking to improve with:
