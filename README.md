@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - React Query, Recoil, Zustand (& still Redux sometimes...)
 - Three.js with r3f
 - Tailwind CSS
-- Prisma, Drizzle
+- Prisma
 - PostgreSQL
 
 ### 📚 currently looking to improve with:
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - Coffee drinker ☕
 
 ### ⏱ counter before next year:
-- 254 day before 2025 ☀️
+- 253 day before 2025 ☀️
 
 ### 🧮 visitor count:
 
