@@ -27,15 +27,17 @@ Here are some ideas to get you started:
 - React & TypeScript
 - Next.js & Astro
 - React Query, Recoil, Zustand (& still Redux sometimes...)
-- Three.js with r3f
-- Tailwind CSS
+- Three.js & r3f
+- Tailwind CSS & Shadcn
 - Prisma, Drizzle ORM
 - PostgreSQL
+- Vitest, Jest, Cypress, Playwright
 
 ### 📚 currently looking to improve with:
 
-- Testing: Jest, Cypress/Playwright
 - Cloud: AWS/GCP
+- D3js
+- Kubernetes
 
 ### 👨‍💻 a little bit about myself:
 
