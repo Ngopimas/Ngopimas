@@ -31,11 +31,12 @@ Here are some ideas to get you started:
 - Tailwind CSS
 - Prisma, Drizzle ORM
 - PostgreSQL
+- Testing: Jest, Cypress/Playwright
 
 ### 📚 currently looking to improve with:
 
-- Testing: Jest, Cypress/Playwright
 - Cloud: AWS/GCP
+- D3js
 
 ### 👨‍💻 a little bit about myself:
 
