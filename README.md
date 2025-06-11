@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I'm Romain! Welcome to my GitHub profile.
+I'm Romain! Welcome to my GitHub profile 🎉
 
 [![Ngopimas github trophy](https://github-profile-trophy.vercel.app/?username=Ngopimas&title=MultiLanguage,Commits,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - Coffee drinker ☕
 
 ### ⏱ counter before next year:
-- 205 day before 2026 ☀️
+- 204 day before 2026 ☀️
 
 ### 🧮 visitor count:
 
@@ -55,4 +55,4 @@ Here are some ideas to get you started:
 
 ![https://github.com/Platane/snk](./images/github-contribution-grid-snake.svg)
 
-🤖 This README file is generated automatically! Last update on Tue Jun 10 2025
+🤖 This README file is generated automatically! Last update on Wed Jun 11 2025
