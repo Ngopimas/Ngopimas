@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ### 🧮 visitor count:
 
-<img src="https://profile-counter.glitch.me/Ngopimas/count.svg" />
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ngopimas)
 
 ![https://github.com/Platane/snk](./images/github-contribution-grid-snake.svg)
 
