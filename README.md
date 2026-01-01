@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - Coffee drinker ☕
 
 ### ⏱ counter before next year:
-- 1 day before 2026 ☀️
+- 365 day before 2027 ☀️
 
 ### 🧮 visitor count:
 
@@ -55,4 +55,4 @@ Here are some ideas to get you started:
 
 ![https://github.com/Platane/snk](./images/github-contribution-grid-snake.svg)
 
-🤖 This README file is generated automatically! Last update on Wed Dec 31 2025
+🤖 This README file is generated automatically! Last update on Thu Jan 01 2026
