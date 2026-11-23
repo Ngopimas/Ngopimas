@@ -29,4 +29,4 @@ Paris · [romaincoupey.com](https://romaincoupey.com) · [Projects](https://roma
   <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/Ngopimas/Ngopimas/master/images/snake.svg">
 </picture>
 
-<sub>Last check: 23 Nov 2026.</sub>
+<sub>Last updated: 23 Nov 2026.</sub>
