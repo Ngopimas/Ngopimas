@@ -1,6 +1,6 @@
 <a href="https://romaincoupey.com"><img alt="Romain Coupey. A ray of light bends through a glass sphere set in the name and leaves as a spectrum." src="https://raw.githubusercontent.com/Ngopimas/Ngopimas/master/images/hero.svg" width="100%"></a>
 
-Software engineer building autonomous systems for quantitative research, data visualization, and web applications. Systems that show their work.
+Software engineer building autonomous systems for quantitative research, data visualization, and web applications.
 
 [Projects](https://romaincoupey.com/projects/) · [Writing](https://romaincoupey.com/posts/)
 
