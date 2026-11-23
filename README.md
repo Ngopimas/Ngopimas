@@ -10,7 +10,7 @@ Paris · [romaincoupey.com](https://romaincoupey.com) · [Projects](https://roma
 - **[OneCode Cloud](https://romaincoupey.com/projects/onecode/)** · lead developer. A cloud platform for deploying Python applications, built with Next.js and AWS serverless services.
 - **[En Minutes](https://romaincoupey.com/projects/en-minutes/)** · solo. French prices turned into minutes of work, with historical data and the methodology in view. [Source](https://github.com/Ngopimas/enminutes).
 - **[Autonomous research pipeline](https://romaincoupey.com/projects/autonomous-pea-research-pipeline/)** · solo. An agent loop that screens European equities, backtests hypotheses with costs, and leaves an evidence trail at every stage.
-- **[Verbatome](https://romaincoupey.com/projects/verbatome/)** · 14 interactive lessons that follow text through a language model to a next-token prediction.
+- **[Verbatome](https://romaincoupey.com/projects/verbatome/)** · solo. 14 interactive lessons that follow text through a language model to a next-token prediction.
 
 ### Recent writing
 
