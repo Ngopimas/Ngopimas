@@ -26,5 +26,5 @@ Paris · [romaincoupey.com](https://romaincoupey.com) · [Projects](https://roma
   <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/Ngopimas/Ngopimas/master/images/snake.svg">
 </picture>
 
-<sub>Rebuilt every morning by <a href="./index.js">a script</a> that reads my site's feed. Last run: <#today_date>.</sub>
+<sub>Last check: <#today_date>.</sub>
 `;
