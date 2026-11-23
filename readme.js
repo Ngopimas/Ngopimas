@@ -1,59 +1,30 @@
-module.exports = `
-### Hi there 👋
+// Template for README.md. index.js fills the <#...> placeholders every day.
+module.exports = `# Romain Coupey
 
-I'm Romain! Welcome to my GitHub profile<#emoji>
+Software engineer building autonomous systems for quantitative research, data visualization, and web applications. Systems that show their work.
 
-[![Ngopimas github trophy](https://github-profile-trophy.vercel.app/?username=Ngopimas&title=MultiLanguage,Commits,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+Paris · [romaincoupey.com](https://romaincoupey.com) · [Projects](https://romaincoupey.com/projects/) · [Writing](https://romaincoupey.com/posts/)
 
-<!--
-<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png">
-**Ngopimas/Ngopimas** is a ✨ _special_ ✨ repository because its \`README.md\` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+### Selected work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **[Omaha Insights](https://romaincoupey.com/projects/omaha-insights/)** · lead developer. A finance analytics web app for KPI monitoring, peer comparison, valuation work, and investment screening.
+- **[OneCode Cloud](https://romaincoupey.com/projects/onecode/)** · lead developer. A cloud platform for deploying Python applications, built with Next.js and AWS serverless services.
+- **[En Minutes](https://romaincoupey.com/projects/en-minutes/)** · solo. French prices turned into minutes of work, with historical data and the methodology in view. [Source](https://github.com/Ngopimas/enminutes).
+- **[Autonomous research pipeline](https://romaincoupey.com/projects/autonomous-pea-research-pipeline/)** · solo. An agent loop that screens European equities, backtests hypotheses with costs, and leaves an evidence trail at every stage.
+- **[Verbatome](https://romaincoupey.com/projects/verbatome/)** · 14 interactive lessons that follow text through a language model to a next-token prediction.
 
-<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png">
--->
+### Recent writing
 
-### 🌶 mainly using:
+<!-- posts:start -->
+<#posts>
+<!-- posts:end -->
 
-- React & TypeScript
-- Next.js & Astro
-- React Query, Recoil, Zustand (& still Redux sometimes...)
-- Three.js & r3f
-- Tailwind CSS & Shadcn
-- Prisma, Drizzle ORM
-- PostgreSQL
-- Vitest, Jest, Cypress, Playwright
+[All posts](https://romaincoupey.com/posts/)
 
-### 📚 currently looking to improve with:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ngopimas/Ngopimas/master/images/snake-dark.svg">
+  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/Ngopimas/Ngopimas/master/images/snake.svg">
+</picture>
 
-- Cloud: AWS/GCP
-- D3js
-- Kubernetes
-
-### 👨‍💻 a little bit about myself:
-
-- French dev 🥖
-- Living in Paris 🇫🇷
-- Art amateur 🎨
-- Coffee drinker ☕
-
-### ⏱ counter before next year:
-- <#day_before_new_years> ☀️
-
-### 🧮 visitor count:
-
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ngopimas)
-
-![https://github.com/Platane/snk](./images/github-contribution-grid-snake.svg)
-
-🤖 This README file is generated automatically! Last update on <#today_date>
+<sub>Rebuilt every morning by <a href="./index.js">a script</a> that reads my site's feed. Last run: <#today_date>.</sub>
 `;
