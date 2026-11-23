@@ -22,8 +22,8 @@ Paris · [romaincoupey.com](https://romaincoupey.com) · [Projects](https://roma
 [All posts](https://romaincoupey.com/posts/)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/snake-dark.svg">
-  <img alt="A snake eating my contribution graph" src="./images/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ngopimas/Ngopimas/master/images/snake-dark.svg">
+  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/Ngopimas/Ngopimas/master/images/snake.svg">
 </picture>
 
 <sub>Rebuilt every morning by <a href="./index.js">a script</a> that reads my site's feed. Last run: <#today_date>.</sub>
