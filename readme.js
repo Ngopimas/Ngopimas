@@ -3,7 +3,7 @@ module.exports = `<a href="https://romaincoupey.com"><img alt="Romain Coupey. A 
 
 Software engineer building autonomous systems for quantitative research, data visualization, and web applications. Systems that show their work.
 
-Paris · [romaincoupey.com](https://romaincoupey.com) · [Projects](https://romaincoupey.com/projects/) · [Writing](https://romaincoupey.com/posts/)
+Paris · [Projects](https://romaincoupey.com/projects/) · [Writing](https://romaincoupey.com/posts/)
 
 ### Selected work
 
