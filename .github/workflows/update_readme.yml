@@ -2,6 +2,7 @@ name: Update README everyday
 
 on:
   push:
+    branches: [master]
   workflow_dispatch:
   schedule:
     - cron: "03 4 * * *"
@@ -9,20 +10,20 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node-version: [16.x]
     steps:
-      - uses: actions/checkout@v3
-      - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v3
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          node-version: ${{ matrix.node-version }}
-      - name: Update README.md file
-        run: |
-          node index.js > README.md
-        env:
-          CI: true
+          node-version: 20
+      - name: Rebuild README.md
+        run: node index.js
+      - name: Redraw the contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            images/snake.svg
+            images/snake-dark.svg?palette=github-dark
       - name: commit changes
         uses: EndBug/add-and-commit@v4
         with:

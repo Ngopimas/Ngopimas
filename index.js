@@ -1,70 +1,78 @@
-// Script adapted from https://github.com/Melvynx/
+// Rebuilds README.md from readme.js: latest posts from the site feed + today's date.
+// No dependencies. Needs Node 18+ (built-in fetch).
 
-const { promises: fs } = require("fs");
-const readme = require("./readme");
+const fs = require("fs");
+const template = require("./readme");
 
-const msInOneDay = 1000 * 60 * 60 * 24;
+const FEED_URL = "https://romaincoupey.com/rss.xml";
+const POST_COUNT = 5;
+const README = "./README.md";
+const POSTS_BLOCK = /<!-- posts:start -->\n([\s\S]*?)\n<!-- posts:end -->/;
 
-const today = new Date();
+const decode = (s) =>
+  s
+    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")
+    .replace(/&apos;|&#39;/g, "'")
+    .replace(/&quot;/g, '"')
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&amp;/g, "&")
+    .trim();
 
-function generateNewREADME() {
-  const readmeRow = readme.split("\n");
+const tag = (xml, name) => {
+  const m = xml.match(new RegExp(`<${name}>([\\s\\S]*?)</${name}>`));
+  return m ? decode(m[1]) : "";
+};
 
-  function updateIdentifier(identifier, replaceText) {
-    const identifierIndex = findIdentifierIndex(readmeRow, identifier);
-    if (!readmeRow[identifierIndex]) return;
-    readmeRow[identifierIndex] = readmeRow[identifierIndex].replace(
-      `<#${identifier}>`,
-      replaceText
-    );
-  }
-
-  const identifierToUpdate = {
-    day_before_new_years: getDBNWSentence(),
-    emoji: getEmoji(),
-    today_date: getTodayDate(),
-  };
-
-  Object.entries(identifierToUpdate).forEach(([key, value]) => {
-    updateIdentifier(key, value);
+const formatDate = (date) =>
+  date.toLocaleDateString("en-GB", {
+    day: "numeric",
+    month: "short",
+    year: "numeric",
+    timeZone: "UTC",
   });
 
-  return readmeRow.join("\n");
+async function fetchPosts() {
+  const res = await fetch(FEED_URL);
+  if (!res.ok) throw new Error(`feed answered ${res.status}`);
+  const xml = await res.text();
+  const posts = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)]
+    .map(([, item]) => ({
+      title: tag(item, "title"),
+      link: tag(item, "link"),
+      date: new Date(tag(item, "pubDate")),
+    }))
+    .filter((p) => p.title && p.link && !isNaN(p.date))
+    .sort((a, b) => b.date - a.date)
+    .slice(0, POST_COUNT);
+  if (!posts.length) throw new Error("feed has no posts");
+  return posts
+    .map((p) => `- [${p.title}](${p.link}) · ${formatDate(p.date)}`)
+    .join("\n");
 }
 
-function getTodayDate() {
-  return today.toDateString();
+// If the feed is down, keep the list already in the README rather than blanking it.
+function previousPosts() {
+  try {
+    const m = fs.readFileSync(README, "utf8").match(POSTS_BLOCK);
+    return m ? m[1] : "";
+  } catch {
+    return "";
+  }
 }
 
-function getEmoji() {
-  // test if we are in a PAIR DAY
-  return today.getDate() % 2 === 0
-    ? Math.floor(Math.random() * 2)
-      ? " ✨"
-      : "."
-    : " 🎉";
-}
-
-function getDBNWSentence() {
-  const nextYear = today.getFullYear() + 1;
-  const nextYearDate = new Date(String(nextYear));
-
-  const timeUntilNewYear = nextYearDate - today;
-  const dayUntilNewYear = Math.round(timeUntilNewYear / msInOneDay);
-
-  return `${dayUntilNewYear} day before ${nextYear}`;
-}
-
-const findIdentifierIndex = (rows, identifier) =>
-  rows.findIndex((r) => Boolean(r.match(new RegExp(`<#${identifier}>`, "i"))));
-
-const updateREADMEFile = (text) =>
-  fs.writeFile("./README.md", text, () => console.log(text));
-
-function main() {
-  const newREADME = generateNewREADME();
-  console.log(newREADME);
-  updateREADMEFile(newREADME);
+async function main() {
+  let posts;
+  try {
+    posts = await fetchPosts();
+  } catch (err) {
+    console.warn(`Could not read the feed (${err.message}); keeping the previous list.`);
+    posts = previousPosts();
+  }
+  const readme = template
+    .replace("<#posts>", () => posts)
+    .replace("<#today_date>", () => formatDate(new Date()));
+  fs.writeFileSync(README, readme.trimStart());
 }
 
 main();
