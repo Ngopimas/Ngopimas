@@ -1,14 +1,9 @@
 // Template for README.md. index.js fills the <#...> placeholders every day.
-module.exports = `# Romain Coupey
+module.exports = `<a href="https://romaincoupey.com/lumen/"><img alt="Romain Coupey. A ray of light bends through a glass sphere set in the name and leaves as a spectrum." src="https://raw.githubusercontent.com/Ngopimas/Ngopimas/master/images/hero.svg" width="100%"></a>
 
-Software engineer building autonomous systems for quantitative research, data visualization, and web applications.
+Software engineer building autonomous systems for quantitative research, data visualization, and web applications. Systems that show their work.
 
 Paris · [romaincoupey.com](https://romaincoupey.com) · [Projects](https://romaincoupey.com/projects/) · [Writing](https://romaincoupey.com/posts/)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ngopimas/Ngopimas/master/images/trace-dark.svg">
-  <img alt="Systems that show their work. An animated toy trace: the phrase is split into tokens and the next token, work, is predicted." src="https://raw.githubusercontent.com/Ngopimas/Ngopimas/master/images/trace.svg" width="100%">
-</picture>
 
 ### Selected work
 
