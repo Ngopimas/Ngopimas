@@ -36,7 +36,7 @@ Paris · [romaincoupey.com](https://romaincoupey.com) · [Projects](https://roma
       <br>
       <b><a href="https://romaincoupey.com/projects/en-minutes/">En Minutes</a></b> · solo
       <br>
-      French prices turned into minutes of work, with historical data and the methodology in view. <a href="https://github.com/Ngopimas/enminutes">Source</a>.
+      French prices turned into minutes of work, with historical data and the methodology in view.
     </td>
     <td width="50%" valign="top">
       <a href="https://romaincoupey.com/projects/rendering-experiments/"><img src="https://raw.githubusercontent.com/Ngopimas/Ngopimas/master/images/work/rendering-experiments.jpg" width="100%" alt="LUMEN: a glass sphere and its caustics rendered live with WebGPU"></a>
