@@ -79,7 +79,6 @@
 <text class="a cand" x="502" y="149" style="animation-name:k14">face</text>
 <rect class="a bar" x="566" y="138" width="10" height="12" rx="3" style="animation-name:k15"/>
 <text class="a pc" x="818" y="149" text-anchor="end" style="animation-name:k16">4%</text>
-<text class="a cap" x="502" y="173" style="animation-name:k17">A toy trace, in the manner of Verbatome</text>
 <rect class="ph" x="14.5" y="190.5" width="817" height="56" rx="10"/><text class="lab" x="32" y="224"><tspan class="num">04</tspan>  OUTPUT</text>
 <g class="a" style="animation-name:k18"><rect class="band" x="14.5" y="190.5" width="817" height="56" rx="10"/><text class="lab bl" x="32" y="224"><tspan class="num">04</tspan>  OUTPUT</text></g>
 <text class="a out" x="172" y="228" style="animation-name:k19">Systems that show their <tspan class="a wk" style="animation-name:k20">work.</tspan></text>
