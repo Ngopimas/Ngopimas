@@ -2,7 +2,7 @@
 
 Software engineer building autonomous systems for quantitative research, data visualization, and web applications. Systems that show their work.
 
-Paris · [Projects](https://romaincoupey.com/projects/) · [Writing](https://romaincoupey.com/posts/)
+[Projects](https://romaincoupey.com/projects/) · [Writing](https://romaincoupey.com/posts/)
 
 ### Selected work
 
