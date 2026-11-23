@@ -8,6 +8,8 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -22,13 +24,17 @@ jobs:
           outputs: |
             images/snake.svg
             images/snake-dark.svg?palette=github-dark
-      - name: commit changes
-        uses: EndBug/add-and-commit@v4
-        with:
-          author_name: Romain C.
-          author_email: 49529524+Ngopimas@users.noreply.github.com
-          force: false
-          signoff: false
-          message: ":memo: README.md updated by a bot"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      # Plain push, never forced: if master moved since checkout, this step fails
+      # instead of overwriting it. (Re-running an old run still uses that run's
+      # own copy of this file, so prefer "Run workflow" over "Re-run".)
+      - name: Commit changes
+        run: |
+          git config user.name "Romain C."
+          git config user.email "49529524+Ngopimas@users.noreply.github.com"
+          git add README.md images/snake.svg images/snake-dark.svg
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+            exit 0
+          fi
+          git commit -m ":memo: README.md updated by a bot"
+          git push
