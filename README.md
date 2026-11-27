@@ -78,4 +78,4 @@ Software engineer building autonomous systems for quantitative research, data vi
   <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/Ngopimas/Ngopimas/master/images/snake.svg">
 </picture>
 
-<sub>Last updated: 26 Nov 2026.</sub>
+<sub>Last updated: 27 Nov 2026.</sub>
